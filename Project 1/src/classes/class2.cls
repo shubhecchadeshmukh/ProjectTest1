@@ -24,6 +24,6 @@ private class class2 {
 
     static testMethod void myUnitTest() {
         // TO DO: implement unit test
-        
+        /test
     }
 }
